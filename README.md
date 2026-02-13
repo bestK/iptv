@@ -22,18 +22,18 @@
 
 | 格式 | 地址 |
 |------|------|
-| M3U | `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/iptv.m3u` |
-| TXT | `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/iptv.txt` |
+| M3U | `https://raw.githubusercontent.com/bestK/iptv/main/iptv.m3u` |
+| TXT | `https://raw.githubusercontent.com/bestK/iptv/main/iptv.txt` |
 
 ### 分类订阅
-- 央视: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/央视.m3u`
-- 卫视: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/卫视.m3u`
-- 港澳台: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/港澳台.m3u`
-- 体育: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/体育.m3u`
-- 电影: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/电影.m3u`
-- 少儿: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/少儿.m3u`
-- 新闻: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/新闻.m3u`
-- 其他: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/其他.m3u`
+- 央视: `https://raw.githubusercontent.com/bestK/iptv/main/央视.m3u`
+- 卫视: `https://raw.githubusercontent.com/bestK/iptv/main/卫视.m3u`
+- 港澳台: `https://raw.githubusercontent.com/bestK/iptv/main/港澳台.m3u`
+- 体育: `https://raw.githubusercontent.com/bestK/iptv/main/体育.m3u`
+- 电影: `https://raw.githubusercontent.com/bestK/iptv/main/电影.m3u`
+- 少儿: `https://raw.githubusercontent.com/bestK/iptv/main/少儿.m3u`
+- 新闻: `https://raw.githubusercontent.com/bestK/iptv/main/新闻.m3u`
+- 其他: `https://raw.githubusercontent.com/bestK/iptv/main/其他.m3u`
 
 ## 数据来源
 - [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)
