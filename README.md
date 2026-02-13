@@ -1,0 +1,47 @@
+# IPTV 直播源
+
+自动更新，每小时检测一次。
+
+## 更新时间
+2026-02-13 21:38:47
+
+## 频道统计
+| 分类 | 数量 |
+|------|------|
+| 央视 | 34 |
+| 卫视 | 294 |
+| 港澳台 | 36 |
+| 体育 | 3 |
+| 电影 | 17 |
+| 少儿 | 2 |
+| 新闻 | 11 |
+| 其他 | 143 |
+| **总计** | **540** |
+
+## 订阅地址
+
+| 格式 | 地址 |
+|------|------|
+| M3U | `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/iptv.m3u` |
+| TXT | `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/iptv.txt` |
+
+### 分类订阅
+- 央视: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/央视.m3u`
+- 卫视: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/卫视.m3u`
+- 港澳台: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/港澳台.m3u`
+- 体育: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/体育.m3u`
+- 电影: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/电影.m3u`
+- 少儿: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/少儿.m3u`
+- 新闻: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/新闻.m3u`
+- 其他: `https://raw.githubusercontent.com/YOUR_USERNAME/iptv/main/其他.m3u`
+
+## 数据来源
+- [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)
+- [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
+- [YueChan/Live](https://github.com/YueChan/Live)
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
+- [iptv-org/iptv](https://github.com/iptv-org/iptv)
+
+## 免责声明
+本项目仅供学习交流，请勿用于商业用途。
