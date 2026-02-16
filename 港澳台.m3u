@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="港澳台",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png" group-title="港澳台",RTHK31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png" group-title="港澳台",RTHK32

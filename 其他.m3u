@@ -43,8 +43,6 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 #EXTINF:-1 tvg-name="2024年春晚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="其他",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 tvg-name="2026-02-16 07:34:03" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="其他",2026-02-16 07:34:03
-https://iptv.catvod.com/live.php?id=CCTV1&line=16
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="其他",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-name="ABN China (720p)" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="其他",ABN China (720p)
@@ -63,8 +61,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro欢喜台.png" group-title="其他",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-name="Beautiful Life TV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="其他",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="其他",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 tvg-name="Bread TV面包台 (720p)" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="其他",Bread TV面包台 (720p)
@@ -177,8 +173,6 @@ http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-name="Supreme Master TV (720p)" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-name="TTV News" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="其他",TTV News
-https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Chinese (1080p)" tvg-logo="https://i.imgur.com/896132Z.png" group-title="其他",TV BRICS Chinese (1080p)
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus TV" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="其他",Taiwan Plus TV
@@ -195,6 +189,8 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="Xinjiang TV 1" tvg-logo="https://i.imgur.com/VLaQYn4.png" group-title="其他",Xinjiang TV 1
 https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+#EXTINF:-1 tvg-name="Xizang TV Tibetan (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="其他",Xizang TV Tibetan (720p) [Not 24/7]
+http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-name="Zhejiang Satellite TV" tvg-logo="https://i.postimg.cc/mrtBcmTx/zhejiangsatellitetv.png" group-title="其他",Zhejiang Satellite TV
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="Zhejiang TV International" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="其他",Zhejiang TV International
@@ -253,10 +249,6 @@ https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
 https://stream1.freetv.fun/wu-yi-jiao-yu-4.m3u8
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北公共.png" group-title="其他",湖北公共
 https://stream1.freetv.fun/hu-bei-gong-gong-5.ctv
-#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="其他",無線新聞台
-http://bxtv.3a.ink/api.php?id=wxxw
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.fanmingming.cn/tv/爱奇艺.png" group-title="其他",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="其他",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="其他",纪实人文
